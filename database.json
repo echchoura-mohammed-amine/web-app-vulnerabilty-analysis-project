@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "$2b$10$04Ts22OQT0IOb97CFVnTNOH.hANxfwfc/FJGkI8MUmcVhpYUVIl8a"
+    },
+    {
+      "username": "user4",
+      "password": "$2b$10$T9MlsnMFbFFxtahsSSYjnOQeEa9I58zv/0hIY5RaHm/phEmVWTsQW"
+    },
+    {
+      "username": "user5",
+      "password": "$2b$10$5DGheoLU7MBNLnLdNSBRletIb00mBxnCqINGduohkbBu6jo28Cn5a"
+    },
+    {
+      "username": "user14",
+      "password": "$2b$10$7qu48q4iqzlb3Pyu/5pS8uyz1xIUvDKjz0E1g07CC2yMPXWvYTVuy"
+    },
+    {
+      "username": "user144",
+      "password": "$2b$10$K9nNzesZKK44PeKhu2Z5z.KLJnnhA8LTgDkWcN0n7kDmhpb0qhvaS"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1674220800000,
+      "task": "Buy groceries",
+      "user": "user1"
+    },
+    {
+      "id": 1674220810000,
+      "task": "Read a book",
+      "user": "user1"
+    },
+    {
+      "id": 1674220820000,
+      "task": "Complete project",
+      "user": "user2"
+    },
+    {
+      "id": 1674220830000,
+      "task": "Plan vacation",
+      "user": "user2"
+    },
+    {
+      "id": 1738161008329,
+      "task": "go to the Gym",
+      "user": "user1"
+    },
+    {
+      "id": 1738181681291,
+      "task": "go sleep",
+      "user": "user144"
+    }
+  ]
+}

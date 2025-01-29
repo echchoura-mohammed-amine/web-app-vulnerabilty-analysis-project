@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Dashboard</title>
+    <script src="https://kit.fontawesome.com/b4db02e187.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/dashboard.css">
+    <script defer src="js/dashboard.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="container">
+    <div class="todo-app">
+        <div class="header">
+
+            <h1><i class="fa-regular fa-pen-to-square"></i> To-do List</h1>
+            
+            <button id="go-to-dashboard-btn" onclick="goToDashboard()"><i class="fa-solid fa-house"></i> Go to Dashboard</button>
+        </div>
+        
+        <div class="row">
+            <input type="text" id="input-box" placeholder="Add a new task">
+            <button id="add-task-btn">Add</button>
+        </div>
+        <ul id="list-container">
+            
+        </ul>
+    </div>
+</div>
+
+</body>
+</html>
